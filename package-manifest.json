@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-041",
+  "repository_name": "edu-substitute-teacher-arranger",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-substitute-teacher-arranger-v1.0.0.zip",
+  "sha256": "FBCF090C91BBCECFF42F566D444B2278B34715CC16FC708FF8C5DF0880D8C9FC",
+  "bytes": 4862,
+  "entries": [
+    "edu-substitute-teacher-arranger/SKILL.md",
+    "edu-substitute-teacher-arranger/references/DOMAIN_GUIDE.md",
+    "edu-substitute-teacher-arranger/references/EXAMPLES.md",
+    "edu-substitute-teacher-arranger/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:19:49.8252786+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

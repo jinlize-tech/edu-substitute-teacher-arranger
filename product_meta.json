@@ -1,0 +1,24 @@
+{
+  "number": 51,
+  "product_id": "JLZ-EDU-SK-041",
+  "chinese_name": "代课教师安排",
+  "english_name": "Substitute Teacher Arranger",
+  "repository_name": "edu-substitute-teacher-arranger",
+  "product_type": "Skill",
+  "category": "04 教务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-substitute-teacher-arranger-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "缺课信息、可代课教师、科目资质、时间、班级、成本和限制",
+  "main_output": "候选教师排序、冲突检查、通知草稿、确认表和备选方案",
+  "package_entries": [
+    "edu-substitute-teacher-arranger/SKILL.md",
+    "edu-substitute-teacher-arranger/references/DOMAIN_GUIDE.md",
+    "edu-substitute-teacher-arranger/references/EXAMPLES.md",
+    "edu-substitute-teacher-arranger/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
