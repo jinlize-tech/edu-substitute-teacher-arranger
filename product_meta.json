@@ -6,19 +6,37 @@
   "repository_name": "edu-substitute-teacher-arranger",
   "product_type": "Skill",
   "category": "04 教务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-substitute-teacher-arranger-v1.0.0.zip",
+  "baseline_commit": "946c5387fdcb9900e65dc5e057319bdbe4a8ed95",
+  "package_path": "dist/edu-substitute-teacher-arranger-v1.0.1.zip",
+  "previous_package_path": "dist/edu-substitute-teacher-arranger-v1.0.0.zip",
+  "previous_package_sha256": "FBCF090C91BBCECFF42F566D444B2278B34715CC16FC708FF8C5DF0880D8C9FC",
   "calculator": false,
   "core_input": "缺课信息、可代课教师、科目资质、时间、班级、成本和限制",
   "main_output": "候选教师排序、冲突检查、通知草稿、确认表和备选方案",
+  "main_output_fields": [
+    "候选教师排序",
+    "冲突检查",
+    "通知草稿",
+    "确认表和备选方案"
+  ],
   "package_entries": [
     "edu-substitute-teacher-arranger/SKILL.md",
     "edu-substitute-teacher-arranger/references/DOMAIN_GUIDE.md",
     "edu-substitute-teacher-arranger/references/EXAMPLES.md",
-    "edu-substitute-teacher-arranger/templates/OUTPUT_TEMPLATE.md"
+    "edu-substitute-teacher-arranger/templates/OUTPUT_TEMPLATE.md",
+    "edu-substitute-teacher-arranger/README.md",
+    "edu-substitute-teacher-arranger/USAGE.md",
+    "edu-substitute-teacher-arranger/LICENSE",
+    "edu-substitute-teacher-arranger/THIRD_PARTY_NOTICES.md",
+    "edu-substitute-teacher-arranger/scripts/validate_input.js"
   ]
 }
